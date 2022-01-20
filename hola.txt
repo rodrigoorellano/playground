@@ -1,2 +1,0 @@
-Texto random
-Esta linea generará un conflicto
